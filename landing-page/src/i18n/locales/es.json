@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "gallery": "Galería",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "slideLabel": "Slide",
+    "slide1": {
+      "badge": "Bienvenidos",
+      "title": "Soluciones que transforman tu negocio",
+      "subtitle": "Ofrecemos productos y servicios de alta calidad diseñados para llevar tu empresa al siguiente nivel.",
+      "cta": "Conoce más"
+    },
+    "slide2": {
+      "badge": "Nuestros Productos",
+      "title": "Calidad que puedes ver y sentir",
+      "subtitle": "Cada producto está cuidadosamente seleccionado para garantizar la mejor experiencia para nuestros clientes.",
+      "cta": "Ver galería"
+    },
+    "slide3": {
+      "badge": "Contáctanos",
+      "title": "Estamos listos para ayudarte",
+      "subtitle": "Nuestro equipo en Panamá está disponible para atender todas tus consultas y necesidades.",
+      "cta": "Escríbenos"
+    },
+    "slide4": {
+      "badge": "Nuestra Historia",
+      "title": "Más de una década de excelencia",
+      "subtitle": "Con años de experiencia en el mercado panameño, hemos construido una reputación de confianza y calidad.",
+      "cta": "Quiénes somos"
+    }
+  },
+  "features": {
+    "tag": "Lo que hacemos",
+    "title": "Por qué elegirnos",
+    "subtitle": "Descubre las ventajas que nos diferencian y cómo podemos ayudarte a alcanzar tus metas.",
+    "item1": {
+      "tag": "Rapidez",
+      "title": "Entrega rápida y eficiente",
+      "desc": "Nos comprometemos a entregar cada pedido o servicio en el menor tiempo posible, sin sacrificar calidad.",
+      "p1": "Tiempos de respuesta inmediatos",
+      "p2": "Logística optimizada en toda Panamá",
+      "p3": "Seguimiento en tiempo real"
+    },
+    "item2": {
+      "tag": "Variedad",
+      "title": "Amplia gama de productos",
+      "desc": "Contamos con un catálogo extenso para satisfacer todas tus necesidades, desde las más simples hasta las más especializadas.",
+      "p1": "Cientos de productos disponibles",
+      "p2": "Actualización constante del catálogo",
+      "p3": "Marcas de confianza internacional"
+    },
+    "item3": {
+      "tag": "Confianza",
+      "title": "Garantía y soporte garantizado",
+      "desc": "Tu satisfacción es nuestra prioridad. Respaldamos cada producto y servicio con garantía total.",
+      "p1": "Garantía en todos los productos",
+      "p2": "Soporte post-venta dedicado",
+      "p3": "Clientes satisfechos en toda la región"
+    }
+  },
+  "stats": {
+    "s1": { "value": "+500", "label": "Clientes satisfechos" },
+    "s2": { "value": "+10", "label": "Años de experiencia" },
+    "s3": { "value": "+1000", "label": "Productos disponibles" },
+    "s4": { "value": "100%", "label": "Compromiso de calidad" }
+  },
+  "gallery": {
+    "title": "Nuestra Galería",
+    "subtitle": "Explora nuestra colección de productos y proyectos destacados",
+    "tag": "Portafolio",
+    "all": "Todos",
+    "cat1": "Categoría 1",
+    "cat2": "Categoría 2",
+    "cat3": "Categoría 3",
+    "img1": "Producto destacado 1",
+    "img2": "Producto destacado 2",
+    "img3": "Producto destacado 3",
+    "img4": "Proyecto especial 1",
+    "img5": "Producto destacado 4",
+    "img6": "Proyecto especial 2",
+    "img7": "Producto destacado 5",
+    "img8": "Producto destacado 6",
+    "viewLabel": "Ver"
+  },
+  "about": {
+    "tag": "Nosotros",
+    "title": "Una empresa comprometida con Panamá",
+    "subtitle": "Desde nuestra fundación, hemos trabajado incansablemente para ofrecer productos y servicios que mejoren la vida de nuestros clientes.",
+    "card1Title": "Misión",
+    "card1Desc": "Brindar soluciones de alta calidad que satisfagan las necesidades de nuestros clientes con honestidad y compromiso.",
+    "card2Title": "Visión",
+    "card2Desc": "Ser la empresa líder en nuestra industria en Panamá, reconocida por excelencia, innovación y servicio al cliente.",
+    "card3Title": "Valores",
+    "card3Desc": "Integridad, calidad, innovación y compromiso son los pilares que guían cada una de nuestras acciones.",
+    "card4Title": "Equipo",
+    "card4Desc": "Un equipo apasionado y altamente capacitado, dedicado a superar las expectativas de cada cliente."
+  },
+  "contact": {
+    "tag": "Contacto",
+    "title": "Hablemos hoy mismo",
+    "subtitle": "Estamos disponibles en todas nuestras redes sociales. Escríbenos y te responderemos a la brevedad.",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "tiktok": "TikTok",
+    "email": "Correo",
+    "phone": "Teléfono",
+    "address": "Dirección",
+    "directContact": "Contacto directo"
+  },
+  "footer": {
+    "tagline": "Comprometidos con la calidad y excelencia para nuestros clientes en Panamá.",
+    "quickLinks": "Enlaces rápidos",
+    "followUs": "Síguenos",
+    "contactInfo": "Información de contacto",
+    "rights": "Todos los derechos reservados",
+    "link1": "Inicio",
+    "link2": "Nosotros",
+    "link3": "Servicios",
+    "link4": "Galería",
+    "link5": "Contacto"
+  }
+}

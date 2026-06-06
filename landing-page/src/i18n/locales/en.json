@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "hero": {
+    "slideLabel": "Slide",
+    "slide1": {
+      "badge": "Welcome",
+      "title": "Solutions that transform your business",
+      "subtitle": "We offer high-quality products and services designed to take your business to the next level.",
+      "cta": "Learn more"
+    },
+    "slide2": {
+      "badge": "Our Products",
+      "title": "Quality you can see and feel",
+      "subtitle": "Each product is carefully selected to ensure the best experience for our customers.",
+      "cta": "View gallery"
+    },
+    "slide3": {
+      "badge": "Contact Us",
+      "title": "We're ready to help you",
+      "subtitle": "Our team in Panama is available to answer all your questions and needs.",
+      "cta": "Message us"
+    },
+    "slide4": {
+      "badge": "Our Story",
+      "title": "Over a decade of excellence",
+      "subtitle": "With years of experience in the Panamanian market, we have built a reputation for trust and quality.",
+      "cta": "Who we are"
+    }
+  },
+  "features": {
+    "tag": "What we do",
+    "title": "Why choose us",
+    "subtitle": "Discover the advantages that set us apart and how we can help you achieve your goals.",
+    "item1": {
+      "tag": "Speed",
+      "title": "Fast and efficient delivery",
+      "desc": "We are committed to delivering every order or service in the shortest possible time, without sacrificing quality.",
+      "p1": "Immediate response times",
+      "p2": "Optimized logistics across Panama",
+      "p3": "Real-time tracking"
+    },
+    "item2": {
+      "tag": "Variety",
+      "title": "Wide range of products",
+      "desc": "We have an extensive catalog to meet all your needs, from the simplest to the most specialized.",
+      "p1": "Hundreds of products available",
+      "p2": "Constantly updated catalog",
+      "p3": "Internationally trusted brands"
+    },
+    "item3": {
+      "tag": "Trust",
+      "title": "Guaranteed warranty and support",
+      "desc": "Your satisfaction is our priority. We back every product and service with a full warranty.",
+      "p1": "Warranty on all products",
+      "p2": "Dedicated after-sales support",
+      "p3": "Satisfied customers throughout the region"
+    }
+  },
+  "stats": {
+    "s1": { "value": "+500", "label": "Satisfied clients" },
+    "s2": { "value": "+10", "label": "Years of experience" },
+    "s3": { "value": "+1000", "label": "Products available" },
+    "s4": { "value": "100%", "label": "Quality commitment" }
+  },
+  "gallery": {
+    "title": "Our Gallery",
+    "subtitle": "Explore our collection of featured products and projects",
+    "tag": "Portfolio",
+    "all": "All",
+    "cat1": "Category 1",
+    "cat2": "Category 2",
+    "cat3": "Category 3",
+    "img1": "Featured product 1",
+    "img2": "Featured product 2",
+    "img3": "Featured product 3",
+    "img4": "Special project 1",
+    "img5": "Featured product 4",
+    "img6": "Special project 2",
+    "img7": "Featured product 5",
+    "img8": "Featured product 6",
+    "viewLabel": "View"
+  },
+  "about": {
+    "tag": "About us",
+    "title": "A company committed to Panama",
+    "subtitle": "Since our founding, we have worked tirelessly to offer products and services that improve the lives of our customers.",
+    "card1Title": "Mission",
+    "card1Desc": "To provide high-quality solutions that meet our customers' needs with honesty and commitment.",
+    "card2Title": "Vision",
+    "card2Desc": "To be the leading company in our industry in Panama, recognized for excellence, innovation and customer service.",
+    "card3Title": "Values",
+    "card3Desc": "Integrity, quality, innovation and commitment are the pillars that guide each of our actions.",
+    "card4Title": "Team",
+    "card4Desc": "A passionate and highly trained team, dedicated to exceeding the expectations of every client."
+  },
+  "contact": {
+    "tag": "Contact",
+    "title": "Let's talk today",
+    "subtitle": "We're available on all our social media channels. Write to us and we'll respond as soon as possible.",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "tiktok": "TikTok",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "directContact": "Direct contact"
+  },
+  "footer": {
+    "tagline": "Committed to quality and excellence for our customers in Panama.",
+    "quickLinks": "Quick links",
+    "followUs": "Follow us",
+    "contactInfo": "Contact information",
+    "rights": "All rights reserved",
+    "link1": "Home",
+    "link2": "About",
+    "link3": "Services",
+    "link4": "Gallery",
+    "link5": "Contact"
+  }
+}
